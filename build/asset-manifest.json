@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.4dba99f0.css",
+    "main.js": "/Portfolio/static/js/main.68fbb41f.js",
+    "static/media/moon.jpg": "/Portfolio/static/media/moon.ec9d16757c33a83a4e2f.jpg",
+    "static/media/venus.jpg": "/Portfolio/static/media/venus.c093898c8e79f21d8154.jpg",
+    "static/media/image.png": "/Portfolio/static/media/image.8c353900869153e3ee96.png",
+    "static/media/space.jpg": "/Portfolio/static/media/space.167f7b1f3402562b8e43.jpg",
+    "static/media/logo.png": "/Portfolio/static/media/logo.46bbe2a4cc44ac7e911d.png",
+    "index.html": "/Portfolio/index.html",
+    "main.4dba99f0.css.map": "/Portfolio/static/css/main.4dba99f0.css.map",
+    "main.68fbb41f.js.map": "/Portfolio/static/js/main.68fbb41f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dba99f0.css",
+    "static/js/main.68fbb41f.js"
+  ]
+}
