@@ -6,12 +6,6 @@ import { Timeline,TimelineItem,
  } from '@mui/lab';
  import { Typography} from "@mui/material";
 import { Event } from '@mui/icons-material';
- 
-
- const date = new Date();
- const day = String(date.getDate()).padStart(2, '0');
- const month = String(date.getMonth() + 1).padStart(2, '0');
- const year = date.getFullYear();
 function TimeLine({timelines=[]}) {
   return (
     <div>
