@@ -13,7 +13,7 @@ const ProjectCard=({
 })=>{
     return(
         <>
-        <a href={url} className='projectCard' target='_blank'>
+        <a href={url} className='projectCard' target='_blank' rel="noopener noreferrer">
             <div>
                 <img src={projectImage} alt='Project'/>
                 <Typography variant='h5'>

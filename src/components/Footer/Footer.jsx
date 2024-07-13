@@ -30,13 +30,13 @@ function Footer() {
             <Typography variant='h6'>
                 GitHub
             </Typography>
-            <a href='https://github.com/KartikSethi21/' target='_blank'>
+            <a href='https://github.com/KartikSethi21/' target='_blank' rel="noopener noreferrer">
             <BsGithub/>
             </a>
             <Typography variant='h6'>
                 LinkedIn 
             </Typography>
-            <a href='https://www.linkedin.com/in/kartik-sethi-4865311b2/' target='_blank'>
+            <a href='https://www.linkedin.com/in/kartik-sethi-4865311b2/' target='_blank' rel="noopener noreferrer">
             <BsLinkedin/>
             </a>
         </div>
